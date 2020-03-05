@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ultra-zenith-270223",
+  "private_key_id": "78f069fcb510f45c547afed09d92cfbc399af631",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8hBBQO9GXRk/z\n5mZAioFV+F4hMumEXurx2xgQIgl0phDygaUmT8heZM7dzT5y3YWeMjjcYt8+dSN6\nsU5uj2346p+ERVoByKkGo19UTZxft67m2gBRIOfC3+YJx9V8ATpIMwVlJdhE7XS3\nJcv1nHk4g4h2rnyZBWMDClxEMana7gJuTrb3BnUna7wpj1nRX7Kbd631j2m1aTnm\nGg2pAX4tUHMeQVg+kqjyBvoyIZO1Owm2Z2coc/9sdmuPmDiA7vXjIL9uRHVqY0rs\nqs1RJVnoz06ZbQtK0mllp9s2HzZEVDg76xx5GohxJCi+XenW5TqO+lYUcq3gO+A6\nBxYqfxy9AgMBAAECggEAGpejiHnjtyvpN93SozyWgYbTWmoI5E4SZNMT6iSvAkgx\nwE+2+PhMqrocL1AWRNRIVrg9aqM83B3ghxxvVKvBZtlL7rfsui8w3rmZhzYafqsV\nzkVGwar7XnNAizUoAYHX05r04h+MSi7X5cT8aDVuKSFu1NUIyPooTSO/P7RkwjfO\nWgjb6lxSPRGOOBIeKL4KdOlW6PfDrbOPfIzDz+gaPAI41ao61V49fGg68EO1d4o9\nv9CvDXocVpJlgvUUERRxywdPwdr7aMsFyCEeHzhmVEJ2c2V1oM4QEh26Wu8Dr7Uy\nynTwO/wCD8wEfSVJ9kJ7limYLMK9oOZOpluveiqEsQKBgQDh0M9U34AnA+AR9hRQ\nWUCtmOoXODsMqoUsur+/3CphjVFktvJwdZo049TbYPMepzMA4GcOS+M3ZzVrlj8m\nHaid1FpYS6vnjKMutm5xfKuU/iFimORPI423eiwvvd20IPrB97LzWMTd7s4fAuy/\ndcZE6BA8GRQY4friEtD5JejHMQKBgQDVtuRFbqDWd3TIprWCBw8AYwdTO7jZ+SQV\nJDOPgApirJjbzPftQiAQIIH1fORHiYBk4W0IVmVvgcE8hnmBNFEZQuTsukabph7M\ngUEpwvJH4PVjNeQYWfrWrNuPGG714AHW60LoEw6L3fi84Iw5VptOG68dzOfYKWRV\nIlljy1ejTQKBgBKjKkmF/My7jCXPWpPbGfR593AdKvp7pGwxqZvLLxBIGpymYNIZ\nUrXky++jS82O3S3IV5kdeE5dTVJo3yNlNUJ5gU9iR3jf6aP0WJ8zO/IbG2RI3CcP\n9yVahwUVtZOlWSzjJbjh7bWnfQmgMywGK2wKfzSGmVsIY61/AhJeJ50xAoGAT2bF\nBtrkXOpC9G2j0CyJMU6ZoR32Pt3mvwgVNAKRWTnhDQDpODgyK2u4fRmqwr1ee5yZ\nYtielUAzKCaaLBvg6a7F2QIYS6n7lWWMbVSlqXj2EqcqGLYNkQbmCBM+3pEcfdoo\noIq8A9EzohEXaBI6X1m/xSWlGdW/FjZN2drps50CgYEAtCEE7dwFz7fdhVBUoN24\ny0kaPDzsIC8Lu/FqxHi1w53iCeiSDzy3LhSINsFgilOkBhPjG9NZX2CSg5ys01ht\nD30/VO3RdDkt27735DZYUelQSFENfVgdBUBS88EU81EG7vuU8gElttnTJmyNOaTl\naIUJM7J+mw70wi3YZi1tMOk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "editarplanilhagoogle@ultra-zenith-270223.iam.gserviceaccount.com",
+  "client_id": "112718239167340331819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editarplanilhagoogle%40ultra-zenith-270223.iam.gserviceaccount.com"
+}
